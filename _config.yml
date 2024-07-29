@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "S Memon's Homepage"
+title                    : "Sonan's Homepage"
 title_separator          : "-"
 name                     : &name ""
-description              : &description "PhD Econ Student at UOregon, USA."
+description              : &description "PhD Economics Candidate at University of Oregon"
 url                      : https://sonanmemon.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sonanmemon/sonanmemon.github.io"
@@ -91,7 +91,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : Sonan Memon
+  username               : sonan_memon
 
 
 
