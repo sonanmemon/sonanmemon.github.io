@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "sonan-picture.jpg"
   name             : "Sonan Memon" 
-  bio              : "I am an aspiring macroeconomist with interests in empirical macroeconomics, monetary policy. expectations and network structures in international monetary system."
+  bio              : "I am an aspiring macroeconomist with interests in empirical estimation of monetary policy transmission and at the intersection of network science and macroeconomics."
   location         : "Eugene, Oregon, USA"
   employer         : "University of Oregon"
   uri              : 
@@ -39,13 +39,14 @@ author:
 
   # Social media
  
-  twitter          : https://twitter.com/sonan_memon
-  linkedin         : sonan-memon?_l=en_US
+  twitter          : @sonan_memon
+  linkedin         : sonan-memon
+
 
 
 
 # Site Settings
-#teaser                   :  "500x300.png"
+teaser                   :  "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 130
 future                   : true
@@ -91,7 +92,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : sonan_memon
+  username               : &twitter
 
 
 
