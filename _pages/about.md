@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/accbb6a6-75d3-4006-9aba-e0f0956f903a)![image](https://github.com/user-attachments/assets/8a571b7b-164e-4582-8ded-be8c06d1219f)---
-permalink: /
 title: "SONAN MEMON"
 author_profile: true
 redirect_from: 
@@ -11,7 +9,7 @@ redirect_from:
 
 I have a MPhil 🎓 in Economics from the University of Oxford, UK and a BSc 🎓 in Economics and Mathematics from LUMS, Pakistan.
 
-🔬 My research interests lie in the following areas: empirical macroeconomics with an emphasis of estimating monetary policy 🏦 transmission effects and the intersection of network science <img src="https://emojis.sh/emoji/network-kGKIAUFag1.jpg"  width="60%" height="30%"> and macroeconomics.
+🔬 My research interests lie in the following areas: empirical macroeconomics with an emphasis of estimating monetary policy 🏦 transmission effects and the intersection of network science and macroeconomics.
 
 Firstly, I use various empirical macroeconomic tools such as reduced form VARs, structural VARs, bayesian VARS and local projections to estimate the dynamic, transmission channels of monetary policy in both advanced and emerging economies. I have worked on papers which measure how monetary transmission depends on the degree of central bank independence, inflation targeting regime status, degree of fiscal conservatism of the incumbent government, exchange rate regimes and degree of financial inclusion in response to various local and international shocks.
 
