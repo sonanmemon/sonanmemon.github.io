@@ -21,9 +21,9 @@ I have a MPhil 🎓 in Economics from the University of Oxford, UK and a BSc �
 
 My research 🔬 interests lie in the following areas: empirical macroeconomics with an emphasis on estimating monetary policy transmission effects and the intersection of network science and macroeconomics.
 
-<img title="" alt="" src="/images/Fed-1.png" width="20%" height="20%"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img title="" alt="" src="/images/banks.jpg" width="30%" height="30%"> 
+<img title="" alt="" src="/images/Fed-1.png" width="30%" height="30%"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img title="" alt="" src="/images/banks.jpg" width="30%" height="30%"> 
 
-<img title="" alt="" src="/images/network-globe.png" width="20%" height="20%"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img title="" alt="" src="/images/CS-1.png" width="40%" height="40%">
+<img title="" alt="" src="/images/network-globe.png" width="30%" height="30%"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img title="" alt="" src="/images/CS-1.png" width="40%" height="40%">
 
 
 
