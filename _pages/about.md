@@ -21,7 +21,10 @@ I was born in Karachi, Sindh, Pakistan. I have studied in Karachi, Hyderabad and
 
 # Research Interests:
 
-My research 🔬 interests lie in the following areas: empirical macroeconomics with an emphasis on estimating monetary policy transmission effects and the intersection of network science and macroeconomics.
+My research 🔬 interests lie in the following areas: 
+
+1. Empirical macroeconomics with an emphasis on estimating national and international monetary policy transmission effects.
+2. At the intersection of network science and macroeconomics.
 
 <img title="" alt="" src="/images/Fed-1.png" width="22%" height="22%"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img title="" alt="" src="/images/Top-10-Banks.webp" width="25%" height="50%"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img title="" alt="" src="/images/BIS.png" width="20%" height="20%"> 
 
