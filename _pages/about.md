@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<img title="" alt="" src="/images/UO-2.jpeg" width="50%" height="50%">
+<img title="" alt="" src="/images/UO-2.jpeg" width="30%" height="30%">
 
 
 # My Background:
