@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "sonan-picture.jpg"
   name             : "Sonan Memon" 
-  bio              : "I am interested in estimation of monetary policy transmission effects and how network structures influence business cycle fluctuations."
+  bio              : "I am interested in estimation of monetary policy transmission effects and the role of network structures in generating and amplifying business cycle fluctuations."
   location         : "Eugene, Oregon, USA"
   employer         : "University of Oregon"
   uri              : 
@@ -91,8 +91,8 @@ yandex_site_verification :
 
 
 # Social Sharing
-twitter:
-  username: sonan_memon
+#twitter:
+ # username: sonan_memon
 
 
 
