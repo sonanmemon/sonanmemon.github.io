@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "sonan-picture.jpg"
   name             : "Sonan Memon" 
-  bio              : "I am an aspiring applied macroeconomist."
+  bio              : "I am an aspiring applied macroeconomist with interests in monetary economics and networks."
   location         : "Eugene, Oregon, USA"
   employer         : "University of Oregon"
   uri              : 
@@ -39,7 +39,7 @@ author:
 
   # Social media
  
-  X          : sonan_memon
+  twitter         : sonan_memon
   linkedin         : sonan-memon
 
 
