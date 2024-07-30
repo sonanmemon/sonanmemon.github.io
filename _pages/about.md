@@ -11,7 +11,7 @@ redirect_from:
 
 I have a MPhil 🎓 in Economics from the University of Oxford, UK and a BSc 🎓 in Economics and Mathematics from LUMS, Pakistan.
 
-🔬 My research interests lie in the following areas: empirical macroeconomics with an emphasis of estimating monetary policy 🏦 transmission effects and the intersection of network science and macroeconomics <img title="" alt="" src="/images/network-globe.png" width="10%" height="10%">.
+🔬 My research interests lie in the following areas: empirical macroeconomics with an emphasis of estimating monetary policy 🏦 transmission effects and the intersection of network science and macroeconomics <img title="" alt="" src="/images/network-globe.png" width="5%" height="5%">.
 
 Firstly, I use various empirical macroeconomic tools such as reduced form VARs, structural VARs, bayesian VARS and local projections to estimate the dynamic, transmission channels of monetary policy in both advanced and emerging economies. I have worked on papers which measure how monetary transmission depends on the degree of central bank independence, inflation targeting regime status, degree of fiscal conservatism of the incumbent government, exchange rate regimes and degree of financial inclusion in response to various local and international shocks.
 
