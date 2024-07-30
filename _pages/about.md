@@ -13,9 +13,11 @@ redirect_from:
 # My Background:
 
 
-👋! I am a PhD Economics Student at the University of Oregon, Eugene, USA.
+👋! I am currently PhD Economics Student at the University of Oregon, Eugene, USA.
 
 I have a MPhil 🎓 in Economics from the University of Oxford, UK and a BSc 🎓 in Economics and Mathematics from LUMS, Pakistan.
+
+I was born in Karachi, Sindh, Pakistan. I have studied in Karachi, Hyderabad and Lahore. I have worked in IBA, Karachi as a Lecturer of Economics (2020-2021) and at PIDE, Islamabad as a research fellow (2021-2024).
 
 # Research Interests:
 
