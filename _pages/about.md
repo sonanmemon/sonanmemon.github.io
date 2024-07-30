@@ -1,3 +1,5 @@
+---
+permalink: /
 title: "SONAN MEMON"
 author_profile: true
 redirect_from: 
