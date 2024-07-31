@@ -11,7 +11,7 @@ redirect_from:
 
 👋! I am a PhD Economics Student at the University of Oregon, Eugene, USA.
 
-
+%<img title="+923332764571" alt="" src="/images/simple-phone.png" width="30%" height="30%" align="right">
 
 # Background:
 
