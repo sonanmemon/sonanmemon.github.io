@@ -9,13 +9,13 @@ redirect_from:
 
 <img title="" alt="" src="/images/UO-2.jpeg" width="30%" height="30%">
 
-<img title="" alt="" src="/images/UO-3.jpeg" width="30%" height="30%" align="right">
+👋! I am currently PhD Economics Student at the University of Oregon, Eugene, USA.
+
+#<img title="" alt="" src="/images/UO-3.jpeg" width="30%" height="30%" align="right">
 
 
 # My Background:
 
-
-👋! I am currently PhD Economics Student at the University of Oregon, Eugene, USA.
 
 I have a MPhil 🎓 in Economics from the University of Oxford, UK and a BSc 🎓 in Economics and Mathematics from LUMS, Pakistan.
 
