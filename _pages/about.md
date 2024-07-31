@@ -9,7 +9,7 @@ redirect_from:
 
 <img title="" alt="" src="/images/UO-2.jpeg" width="30%" height="30%">
 
-![Illustration](/images/UO-3.jpeg){float: right}
+![Illustration](/images/UO-3.jpeg#right)
 
 
 # My Background:
