@@ -13,7 +13,7 @@ redirect_from:
 
 
 
-# My Background:
+# Background:
 
 
 I have a MPhil 🎓 in Economics from the University of Oxford, UK and a BSc 🎓 in Economics and Mathematics from LUMS, Pakistan.
