@@ -18,7 +18,7 @@ redirect_from:
 
 I have a MPhil 🎓 in Economics from the University of Oxford, UK and a BSc 🎓 in Economics and Mathematics from LUMS, Pakistan.
 
-I was born in Karachi, Sindh. I have studied and lived in Karachi, Hyderabad, Lahore and Islamabad in Pakistan. I worked in IBA, Karachi as a Lecturer of Economics during 2020-2021 and at PIDE, Islamabad as a research fellow during 2021-2024.
+I have studied and lived in Karachi, Hyderabad, Lahore and Islamabad in Pakistan. I worked in IBA, Karachi as a Lecturer of Economics during 2020-2021 and at PIDE, Islamabad as a research fellow during 2021-2024.
 
 # Research Interests:
 
@@ -27,7 +27,7 @@ My research 🔬 interests lie in the following areas:
 1. Empirical macroeconomics with an emphasis on estimating national and international monetary policy transmission effects.
 2. At the intersection of network science and macroeconomics.
 
-<img title="" alt="" src="/images/Fed-1.png" width="22%" height="22%"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img title="" alt="" src="/images/Top-10-Banks.webp" width="25%" height="50%"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img title="" alt="" src="/images/BIS.png" width="20%" height="20%"> 
+<img title="" alt="" src="/images/Fed-1.png" width="22%" height="22%"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img title="" alt="" src="/images/private-banks.jpeg" width="25%" height="50%"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img title="" alt="" src="/images/BIS.png" width="20%" height="20%"> 
 
 <img title="" alt="" src="/images/network-globe.png" width="25%" height="25%"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img title="" alt="" src="/images/CS-1.png" width="40%" height="40%">
 
