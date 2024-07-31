@@ -11,7 +11,6 @@ redirect_from:
 
 👋! I am currently PhD Economics Student at the University of Oregon, Eugene, USA.
 
-#<img title="" alt="" src="/images/UO-3.jpeg" width="30%" height="30%" align="right">
 
 
 # My Background:
