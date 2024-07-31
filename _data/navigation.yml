@@ -7,9 +7,9 @@ main:
     url: /publications/    
 
   - title: "Teaching"
-    url: /teaching/    
-    
+    url: /teaching/ 
+
   - title: "Blogs"
-   url: /drafts/
+    url: /posts/
     
   
