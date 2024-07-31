@@ -28,9 +28,9 @@ My research 🔬 interests lie in the following areas:
 
 ➡️ Understanding the international monetary system through the network structure of private banks, central/state banks across the globe.
 
-<img title="" alt="" src="/images/Fed-1.png" width="22%" height="22%"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img title="" alt="" src="/images/private-banks.jpeg" width="25%" height="50%"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img title="" alt="" src="/images/BIS.png" width="20%" height="20%"> 
+<img title="Federal Reserve, USA" alt="" src="/images/Fed-1.png" width="22%" height="22%"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img title="Private Banking Network" alt="" src="/images/private-banks.jpeg" width="25%" height="50%"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img title="Bank Of International Settlements" alt="" src="/images/BIS.png" width="20%" height="20%"> 
 
-<img title="" alt="" src="/images/network-globe.png" width="25%" height="25%"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img title="" alt="" src="/images/CS-1.png" width="40%" height="40%">
+<img title="" alt="" src="/images/network-globe.png" width="25%" height="25%"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img title="" alt="" src="/images/networks-people-2.jpg" width="40%" height="40%">
 
 
 
@@ -44,7 +44,7 @@ Secondly, I am interested in the intersection of monetary economics and networks
 
 ➡️ I can build, solve and calibrate small DSGE models using MATLAB, DYNARE and IRIS-Toolbox. 
 
-➡️I can also code in R, Julia, Python, and STATA environments with advanced proficiency in R and Julia.
+➡️ I can also code in R, Julia, Python, and STATA environments with advanced proficiency in R and Julia.
      
 
 
