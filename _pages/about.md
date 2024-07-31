@@ -26,7 +26,7 @@ My research 🔬 interests lie in the following areas:
 
 ➡️ Estimating monetary policy transmission effects using exogenous or identified macroeconomic shocks in panel data settings.
 
-➡️ Understanding the international monetary system through the network structure of private banks, central/state banks across the globe.
+➡️ Understanding the international monetary system through the network structure of private banks, central/state banks and consumer sentiment across the globe.
 
 <img title="" alt="" src="/images/Fed-1.png" width="22%" height="22%"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img title="" alt="" src="/images/private-banks.jpeg" width="25%" height="50%"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img title="Bank Of International Settlements" alt="" src="/images/BIS.png" width="20%" height="20%"> 
 
