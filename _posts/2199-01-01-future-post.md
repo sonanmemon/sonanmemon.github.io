@@ -1,5 +1,6 @@
 ---
 title: "Future Blog Post"
+collection: posts
 date: 2199-01-01
 permalink: /posts/2199-01-01-future-post
 tags:
