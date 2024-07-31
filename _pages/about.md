@@ -11,7 +11,7 @@ redirect_from:
 
 👋! I am a PhD Economics Student at the University of Oregon, Eugene, USA.
 
-%<img title="" alt="" src="/images/simple-phone.png" width="10%" height="10%" align="right">
+<img title="0333" alt="" src="/images/simple-phone.png" width="10%" height="10%" align="right">
 
 # Background:
 
@@ -30,7 +30,7 @@ My research 🔬 interests lie in the following areas:
 
 <img title="Federal Reserve, USA" alt="" src="/images/Fed-1.png" width="22%" height="22%"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img title="Private Banking Network" alt="" src="/images/private-banks.jpeg" width="25%" height="50%"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img title="Bank Of International Settlements" alt="" src="/images/BIS.png" width="20%" height="20%"> 
 
-<img title="" alt="" src="/images/network-globe.png" width="25%" height="25%"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img title="" alt="" src="/images/networks-people2.jpg" width="40%" height="40%">
+<img title="" alt="" src="/images/network-globe.png" width="25%" height="25%"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img title="" alt="" src="/images/networks-people2.jpg" width="20%" height="20%">
 
 
 
