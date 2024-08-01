@@ -1,10 +1,11 @@
 ---
-title: "Intermediate Macroeconomics (Spring 2021), IBA Karachi"
+title: "Macroeconomics-300 Level (Spring 2021), IBA Karachi"
 collection: teaching
-type: "Undergraduate Course For Sophomores"
+type: "Undergraduate Course"
 venue: "Department of Economics, IBA Karachi"
 date: 2021-01-15
 location: "Karachi, Sindh"
+courseurl: "https://github.com/sonanmemon/Macroeconomics-Undergraduate-Course"
 ---
 
 
