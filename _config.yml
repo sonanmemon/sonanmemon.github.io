@@ -38,12 +38,9 @@ author:
   github           : "sonanmemon" 
 
   # Social media
-  show_social: true
-  #twitter         : "sonanmemon"
+  twitter         : "sonan_memon"
   linkedin         : "sonan-memon"
 
-external:
-  - {title: Twitter, icon: twitter, url: "https://twitter.com/sonan_memon"}
 
 
 # Site Settings
