@@ -39,11 +39,11 @@ author:
 
   # Social media
   show_social: true
-  twitter         : "sonanmemon"
+  #twitter         : "sonanmemon"
   linkedin         : "sonan-memon"
 
 external:
-  - {title" Twitter, icon: twitter, url: "https://twitter.com/sonan_memon"}
+  - {title: Twitter, icon: twitter, url: "https://twitter.com/sonan_memon"}
 
 
 # Site Settings
