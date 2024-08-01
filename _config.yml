@@ -38,11 +38,12 @@ author:
   github           : "sonanmemon" 
 
   # Social media
- 
+  show_social: true
   twitter         : "sonanmemon"
   linkedin         : "sonan-memon"
 
-
+external:
+  - {title" Twitter, icon: twitter, url: "https://twitter.com/sonan_memon"}
 
 
 # Site Settings
@@ -218,6 +219,14 @@ defaults:
   # _talks
   - scope:
       path: ""
+
+
+
+
+
+
+
+      
       type: talks
     values:
       layout: talk
