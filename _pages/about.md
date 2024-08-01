@@ -20,9 +20,9 @@ I have a MPhil 🎓 in Economics from the University of Oxford, UK and a BSc �
 
 I have studied and lived in Karachi, Hyderabad, Lahore and Islamabad in Pakistan. I worked in IBA, Karachi as a Lecturer of Economics during 2020-2021 and at PIDE, Islamabad as a research fellow during 2021-2024.
 
-# Research Interests:
+# Research Interests 🔬:
 
-My research 🔬 interests lie in the following areas: 
+My research interests lie in the following areas: 
 
 ➡️ Estimating monetary policy transmission effects using exogenous or identified macroeconomic shocks in panel data settings.
 
@@ -40,7 +40,7 @@ Secondly, I am interested in the intersection of monetary economics and networks
 
 # Research Skills:
 
-➡️ I am proficient in applied macro-econometric tools including machine learning. 
+➡️ I am proficient in applied macro-econometric models including machine learning. 
 
 ➡️ I can build, solve and calibrate small DSGE models using MATLAB, DYNARE and IRIS-Toolbox. 
 
