@@ -44,7 +44,7 @@ author:
 
 
 # Site Settings
-teaser                   :  "machine.png"
+teaser                   :  "logo-globe.jpg"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
