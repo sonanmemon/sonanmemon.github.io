@@ -24,15 +24,12 @@ author:
   avatar           : "sonan-picture.jpg"
   name             : "Sonan Memon" 
   bio              : "I am a budding macroeconomist with interests in monetary economics and network science."
-  location         : "Eugene, Oregon, USA"
   employer         : "University of Oregon"
-  uri              : 
   email            : "smemon@uoregon.org" 
 
   # Academic websites
  
-  researchgate     : https://www.researchgate.net/profile/Sonan-Memon-2
-
+  
 
   # Repositories and software development
   github           : "sonanmemon" 
