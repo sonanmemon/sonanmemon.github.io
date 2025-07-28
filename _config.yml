@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Sonan's Homepage"
 title_separator          : "-"
 name                     : &name ""
-description              : &description "PhD Economics Candidate at University of Oregon"
+description              : &description "PhD. Economics Student at University of Oregon"
 url                      : https://sonanmemon.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sonanmemon/sonanmemon.github.io"
@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "sonan-picture.jpg"
   name             : "Sonan Memon" 
-  bio              : "I am an aspiring applied macroeconomist with interests in monetary economics and networks."
+  bio              : "I am a budding macroeconomist with interests in monetary economics and network science."
   location         : "Eugene, Oregon, USA"
   employer         : "University of Oregon"
   uri              : 
