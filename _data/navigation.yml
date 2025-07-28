@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Resume"
-    url: /files/CV-Sonan-Memon-Jan-2025.pdf
+    url: /files/CV-Sonan-Memon-July-2025.pdf
 
   - title: "Research Work"
     url: /publications/    
@@ -9,5 +9,4 @@ main:
   - title: "Teaching"
     url: /teaching/
 
-  - title: "Blogs"
-    url: https://github.com/sonanmemon/My-Blogs
+  
