@@ -25,9 +25,9 @@ In Pakistan, I have studied and worked in Karachi, Lahore and Islamabad. I worke
 
 My research interests lie in the following areas: 
 
-➜ Identifying monetary policy Shocks and Their Tranmission in cross-country, panel data environments.
+➜ Identifying monetary policy shocks and their tranmission in cross-country, panel data environments.
 
-➜ Understanding the international network structure of private and central banks by using Network Science.
+➜ Understanding the international network structure of private and central banks by using network science.
 
 ➜ New Keynesian Models With Non-Standard Learning and Expectation Assumptions.
 
