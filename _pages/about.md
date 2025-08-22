@@ -32,7 +32,7 @@ My research interests lie in the following areas:
 ➜ New Keynesian Models With Non-Standard Learning and Expectation Assumptions.
 
 
-<img title="" alt="" src="/images/Fed-1.png" width="22%" height="22%"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img title="" alt="" src="/images/jp-mogran-pic.jpg." width="28%" height="75%"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img title="Bank Of International Settlements" alt="" src="/images/BIS.png" width="20%" height="20%"> 
+<img title="" alt="" src="/images/Fed-1.png" width="22%" height="22%"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img title="" alt="" src="/images/jp-mogran-pic.jpg." width="22%" height="22%"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img title="Bank Of International Settlements" alt="" src="/images/BIS.png" width="20%" height="20%"> 
 
 <img title="" alt="" src="/images/network-globe.png" width="25%" height="25%"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img title="" alt="" src="/images/converted_image.jpeg" width="24%" height="80%"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img title="" alt="" src="/images/networks-people2.jpg" width="20%" height="20%">
 
