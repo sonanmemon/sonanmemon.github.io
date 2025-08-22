@@ -19,7 +19,7 @@ redirect_from:
 
 I have a MPhil 🎓 in Economics from the University of Oxford, UK where I received the Oxford-Sir Anwar Pervez Graduate Scholarship and a BSc 🎓 in Economics and Mathematics from Lahore University of Management Sciences (LUMS), Pakistan.
 
-I have worked at the Institute of Business Administration (IBA), Karachi as a Lecturer of Economics during 2020-2021 and at PIDE (Pakistan Institute of Development Economics: https://pide.org.pk/), Islamabad as a research fellow during 2021-2024. I also worked with the Asian Development Bank as a consultant during Janurary-June 2024.
+I have worked at the Institute of Business Administration (IBA), Karachi as a Lecturer of Economics during 2020-2021 and at PIDE (Pakistan Institute of Development Economics), Islamabad as a research fellow during 2021-2024. I also worked with the Asian Development Bank as a consultant during Janurary-June 2024.
 
 # Research Interests 🔬:
 
