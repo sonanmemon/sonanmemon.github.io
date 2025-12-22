@@ -31,7 +31,7 @@ My research interests lie in the following areas:
 
 ➜ Open Economy New Keynesian Models.
 
-➜ Ethnic Frictions in Labor Markets.
+➜ Eonomic Sociology: Ethnic and Religious Conflict In Pakistan; Islamic Finance and Mainstream Finance.
 
 
 
@@ -46,9 +46,7 @@ Firstly, I use empirical macroeconomic tools such as structural VARs and local p
 
 Secondly, I am fascinated about the network structure of international and intra-national links across private banks and networks among central banks of various nations, where the central nodes are large American banks and the US Federal Reserve System. Understanding this system is critical for effective global coordination of monetary policies for the management of global business cycle fluctuations.
 
-I am also interested in analyzing referal networks and ethnic biases in labor markets; more specifically is there a Sindhi bias in Karachi's private sector and how to design policy to circumvent this?
-
-
+I am also interested in economic sociology. Specifically, I want to explore the relationship between social frictions such as ethnic or religious conflict and its effects on labor market hiring biases. I am also interested in understanding the welfare consequences of Islamic finance relative to conventional financial systems as invisioned by most economists.
 
 # Research Skills:
 
