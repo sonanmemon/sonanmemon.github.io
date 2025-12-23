@@ -27,11 +27,9 @@ My research interests lie in the following areas:
 
 ➜ Identifying monetary policy shocks and their tranmission effects in cross-country, panel data environments.
 
-➜ Understanding the structure of international connectedness of private and central banks by using network science.
+➜ Understanding the structure of international connectedness of private and central banks by using network science in Open Economy New Keynesian framework.
 
-➜ Open Economy New Keynesian Models.
-
-➜ Eonomic Sociology: Ethnic and Religious Conflict In Pakistan; Islamic Finance and Mainstream Finance.
+➜ Economic Sociology: Labor Market Consequences of Ethnic and Religious Frictions in Pakistan.
 
 
 
@@ -44,15 +42,15 @@ My research interests lie in the following areas:
 
 Firstly, I use empirical macroeconomic tools such as structural VARs and local projections to estimate the transmission channels of monetary policy in both advanced and emerging economies. I have worked on papers which measure how monetary transmission effects vary based on the degree of central bank independence, inflation targeting regime status and around election cycles/other political economy factors. I am currently working on identiying global monetary coordination shocks.
 
-Secondly, I am fascinated about the network structure of international and intra-national links across private banks and networks among central banks of various nations, where the central nodes are large American banks and the US Federal Reserve System. Understanding this system is critical for effective global coordination of monetary policies for the management of global business cycle fluctuations.
+Secondly, I am fascinated about the network structure of international and intra-national links across private banks and networks among central banks of various nations, where the central nodes are large American banks and the US Federal Reserve System. Understanding this system is critical for the management of global business cycle fluctuations.
 
-I am also interested in economic sociology. Specifically, I want to explore the relationship between social frictions such as ethnic or religious conflict and its effects on labor market hiring biases. I am also interested in understanding the welfare consequences of Islamic finance relative to conventional financial systems as invisioned by most economists.
+I am also interested in economic sociology. Specifically, I want to explore the relationship between social frictions such as ethnic or religious conflict and its effects on labor market hiring and referral networks.
 
 # Research Skills:
 
-➜ I am proficient in many empirical macroeconomic tools such as the VAR and local projections toolkit.
+➜ I am proficient in many empirical macroeconomic tools such as the VAR/SVAR and local projections toolkit.
 
-➜ I can build, solve and calibrate small scale New-Keynesian DSGE models using Julia and DYNARE with MATLAB.
+➜ I can build, solve and calibrate small scale New-Keynesian DSGE models using Julia and DYNARE.
 
 ➜ I can code in R, Julia, Python, and STATA environments with higher order expertise in R, STATA and Julia.
      
