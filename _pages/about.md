@@ -13,9 +13,7 @@ redirect_from:
 
 
 
-
 # Background:
-
 
 I have a MPhil 🎓 in Economics from the University of Oxford, UK where I received the Oxford-Sir Anwar Pervez Graduate Scholarship.
 
@@ -25,13 +23,11 @@ I have worked at the Institute of Business Administration (IBA), Karachi as a Le
 
 My research interests lie in the following areas: 
 
-➜ Identifying monetary policy shocks and their tranmission effects in cross-country, panel data environments.
+➜ Applied Monetary Policy Transmission Analysis.
 
-➜ Understanding the structure of international connectedness of private and central banks by using network science in Open Economy New Keynesian framework.
+➜ Financial Networks: Understanding the structure of international connectedness of private and central banks in Open Economy New Keynesian framework.
 
 ➜ Economic Sociology: Labor Market Consequences of Ethnic and Religious Frictions in Pakistan.
-
-
 
 
 <img title="" alt="" src="/images/Fed-1.png" width="22%" height="22%"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img title="" alt="" src="/images/jp-mogran-pic.jpg" width="24%" height="24%"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img title="Bank Of International Settlements" alt="" src="/images/BIS.png" width="20%" height="20%"> 
@@ -39,12 +35,11 @@ My research interests lie in the following areas:
 <img title="" alt="" src="/images/network-globe.png" width="25%" height="25%"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img title="" alt="" src="/images/converted_image.jpeg" width="24%" height="80%"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img title="" alt="" src="/images/networks-people2.jpg" width="20%" height="20%">
 
 
-
 Firstly, I use empirical macroeconomic tools such as structural VARs and local projections to estimate the transmission channels of monetary policy in both advanced and emerging economies. I have worked on papers which measure how monetary transmission effects vary based on the degree of central bank independence, inflation targeting regime status and around election cycles/other political economy factors. I am currently working on identiying global monetary coordination shocks.
 
 Secondly, I am fascinated about the network structure of international and intra-national links across private banks and networks among central banks of various nations, where the central nodes are large American banks and the US Federal Reserve System. Understanding this system is critical for the management of global business cycle fluctuations.
 
-I am also interested in economic sociology. Specifically, I want to explore the relationship between social frictions such as ethnic or religious conflict and its effects on labor market hiring and referral networks.
+I am also interested in economic sociology. Specifically, I want to explore the relationship between social frictions such as ethnic or religious conflict and its effects on labor market hiring and referral networks in Pakistan.
 
 # Research Skills:
 
