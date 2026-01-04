@@ -163,7 +163,7 @@ collections:
     permalink: /:collection/:path/
   JMP:
     output: true
-    permalink: permalink: /:collection/:path/
+    permalink: /:collection/:path/
 
 
 # Defaults
