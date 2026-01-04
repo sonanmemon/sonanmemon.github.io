@@ -2,10 +2,10 @@
 title: "Network Structure of Global Monetary Policy Spillovers"
 collection: job-market-papers
 permalink: /job-market-papers/paper1
-excerpt: 'This paper examines the relationship between the network structure of monetary system across the globe and transmission of monetary policy shocks originating in the USA on inflation.'
+excerpt: 'This paper examines the relationship between macroeconomic instability, as measured by the variance of inflation and output, and income inequality. We develop a panel data set consisting of 61 developed and developing economies for 1990–2019. Our results highlight a positive relationship between past inflation variance and subsequent inequality. We find that this relationship is nonexistent in developed countries but is strong for developing economies. Developing countries that have adopted an inflation targeting (IT) regime are insulated from the regressive effect of inflation volatility. From the point of view of achieving an even income distribution, IT may be consistent with better equity and efficiency outcomes simultaneously. The main findings are robust to a rich set of controls, alternative measures of volatility and inequality, various subsample checks, and dynamic panel specifications.'
 date: 2026-03-01.
 venue: 'Working Paper'
-paperurl: 'paperurl: 'https://onlinelibrary.wiley.com/doi/abs/10.1111/rode.12730'
+paperurl: 'https://onlinelibrary.wiley.com/doi/abs/10.1111/rode.12730'
 citation: 'Memon, S. Network Structure of GLobal Monetary Policy Transmission (2026). University of Oregon'
 --
 
