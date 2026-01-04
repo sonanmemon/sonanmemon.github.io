@@ -161,6 +161,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  job-market-papers:
+    output: true
+    permalink: permalink: /:collection/:path/
 
 
 # Defaults
