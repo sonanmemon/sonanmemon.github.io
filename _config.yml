@@ -216,19 +216,17 @@ defaults:
   # _talks
   - scope:
       path: ""
-
-
-
-
-
-
-
-      
-      type: talks
+  # _JMP
+  - scope:
+      path: ""
+      type: JMP
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
+      comments: true
+
+
 
 
 # Sass/SCSS
