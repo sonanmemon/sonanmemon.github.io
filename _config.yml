@@ -161,7 +161,7 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  job-market-papers:
+  JMPS:
     output: true
     permalink: permalink: /:collection/:path/
 
