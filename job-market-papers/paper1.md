@@ -7,5 +7,5 @@ date: 2026-03-01.
 venue: 'Working Paper'
 paperurl: 'https://onlinelibrary.wiley.com/doi/abs/10.1111/rode.12730'
 citation: 'Memon, S. Network Structure of GLobal Monetary Policy Transmission (2026). University of Oregon'
---
+---
 
