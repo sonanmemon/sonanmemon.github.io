@@ -3,8 +3,11 @@ main:
   - title: "Resume"
     url: /files/CV-SMEMON-Dec-2025.pdf
 
-  - title: "Research Work"
-    url: /publications/    
+  - title: "Other Research Projects"
+    url: /publications/   
+
+  - title: "Job Market Papers"
+    url: /publications/ 
 
   - title: "Teaching"
     url: /teaching/
