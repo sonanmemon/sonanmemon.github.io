@@ -9,7 +9,7 @@ redirect_from:
 
 <img title="" alt="" src="/images/UO-2.jpeg" width="20%" height="20%">
 
-👋! I am a second year PhD Economics Student at the University of Oregon, USA. 
+👋! I am a second year PhD Economics Student at the University of Oregon, USA.
 
 
 
@@ -23,11 +23,11 @@ I have worked at the Institute of Business Administration (IBA), Karachi as a Le
 
 My research interests lie in the following areas: 
 
-➜ Applied Monetary Policy Transmission Analysis.
+➜ Applied Monetary Policy Analysis: Identifying Novel Shocks Via Using Computational Linguistics and Large Language Models on BIS, Jackson-Hole Conference, IMF debt-negotiations and the Fed's announcement data.
 
-➜ Financial Networks: Understanding the structure of international connectedness of private and central banks in Open Economy New Keynesian framework.
+➜ Structure of Monetary Policy Networks: Understanding the structure of international connectedness of central bankers.
 
-➜ Economic Sociology: Labor Market Consequences of Ethnic and Religious Frictions in Pakistan.
+➜ Religion and Economic Institutions: Deleterious Effects of the Growth in Islamic Finance in Pakistan and Middle East.
 
 
 <img title="" alt="" src="/images/Fed-1.png" width="22%" height="22%"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img title="" alt="" src="/images/jp-mogran-pic.jpg" width="24%" height="24%"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img title="Bank Of International Settlements" alt="" src="/images/BIS.png" width="20%" height="20%"> 
@@ -35,19 +35,19 @@ My research interests lie in the following areas:
 <img title="" alt="" src="/images/network-globe.png" width="25%" height="25%"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img title="" alt="" src="/images/converted_image.jpeg" width="24%" height="80%"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img title="" alt="" src="/images/networks-people2.jpg" width="20%" height="20%">
 
 
-Firstly, I use empirical macroeconomic tools such as structural VARs and local projections to estimate the transmission channels of monetary policy in both advanced and emerging economies. I have worked on papers which measure how monetary transmission effects vary based on the degree of central bank independence, inflation targeting regime status and around election cycles/other political economy factors. I am currently working on identiying global monetary coordination shocks.
+Firstly, I use empirical macroeconomic tools such as structural VARs and local projections to estimate the transmission channels of monetary policy in both advanced and emerging economies. I have worked on papers which measure how monetary transmission effects vary based on the degree of central bank independence, inflation targeting regime status and around election cycles/other political economy factors. I am currently working on identiying global monetary coordination shocks using text data from BIS.
 
 Secondly, I am fascinated about the network structure of international and intra-national links across private banks and networks among central banks of various nations, where the central nodes are large American banks and the US Federal Reserve System. Understanding this system is critical for the management of global business cycle fluctuations.
 
-I am also interested in economic sociology. Specifically, I want to explore the relationship between social frictions such as ethnic or religious conflict and its effects on labor market hiring and referral networks in Pakistan.
+I am also interested in the effects of religious beliefs on economic institutions. A case in point is the dangerous rise of Islamic finance and its deleterious effects on Islamic economies and spill-overs in Non-Islamic economies.
 
 # Research Skills:
 
-➜ I am proficient in many empirical macroeconomic tools such as the VAR/SVAR and local projections toolkit.
+➜ I am proficient in many empirical macroeconomic tools such as the VAR/SVAR, local projections toolkit and analysis of textual data.
 
 ➜ I can build, solve and calibrate small scale New-Keynesian DSGE models using Julia and DYNARE.
 
-➜ I can code in R, Julia, Python, and STATA environments with higher order expertise in R, STATA and Julia.
+➜ I can code in R, Julia, Python, and STATA environments with higher order expertise in R, Python and Julia.
      
 
 
