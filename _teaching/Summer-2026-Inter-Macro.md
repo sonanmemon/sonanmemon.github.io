@@ -1,5 +1,5 @@
 ---
-title: "ECON-313-Intermediate-Macro-Summer-2026"
+title: "ECON-313-Inter-Macro-Summer-2026"
 collection: teaching
 permlink: /teaching/2026-Macro
 type: "Undergraduate Course"
