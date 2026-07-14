@@ -9,13 +9,13 @@ redirect_from:
 
 <img title="" alt="" src="/images/UO-2.jpeg" width="20%" height="20%">
 
-👋! I am a second year PhD Economics Student at the University of Oregon, USA.
+👋! I am a PhD Economics Student at the University of Oregon, USA.
 
 
 
 # Background:
 
-I have a MPhil 🎓 in Economics from the University of Oxford, UK where I received the Oxford-Sir Anwar Pervez Graduate Scholarship.
+I have a MPhil 🎓 in Economics from the University of Oxford, UK where I received the Oxford-Sir Anwar Pervez Graduate Scholarship and BSc in Economics and Mathematics from Lahore University of Management Sciences (LUMS).
 
 I have worked at the Institute of Business Administration (IBA), Karachi as a Lecturer of Economics during 2020-2021 and at PIDE (Pakistan Institute of Development Economics), Islamabad as a research fellow during 2021-2024. I also worked with the Asian Development Bank as a consultant in 2024.
 
@@ -25,7 +25,7 @@ My research interests lie in the following areas:
 
 ➜ Applied Monetary Policy Analysis: Identifying Novel Shocks Via Using Computational Linguistics and Large Language Models on BIS, Jackson-Hole Conference, IMF debt-negotiations and the Fed's announcement data.
 
-➜ Structure of Monetary Policy Networks: Understanding the structure of international connectedness of central bankers.
+➜ Structure of Monetary Policy Networks: Understanding the structure of international connectedness among central bankers.
 
 ➜ Religion and Economic Institutions: Deleterious Effects of the Growth in Islamic Finance in Pakistan and Middle East.
 
